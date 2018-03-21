@@ -1,0 +1,2 @@
+when using math.h class add -lm to gcc line:
+gcc operators.c -lm
